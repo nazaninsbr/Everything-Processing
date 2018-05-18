@@ -33,6 +33,6 @@
 <p id="challenge">Lets see some visuals<br></p>
 <ul>
 	<li>moving points</li>
-	<li>Rain<br><img src="./results/rain.png" style="height: 100px"></li>
-	<li>Starfield<br><img src="./results/star.png" style="height: 100px"></li>
+	<li>Rain<br><img src="./results/rain.png" height="100"></li>
+	<li>Starfield<br><img src="./results/star.png" height="100"></li>
 </ul>
